@@ -3,7 +3,7 @@
 
 <!-- title -->
 # Hanseo's playground  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=4CCEFFFF&background=00072CFF&vCenter=true&random=false&width=1400&height=100&lines=%EC%9D%B4%EC%A0%9C%EB%8A%94+%EB%8D%94+%EC%9D%B4%EC%83%81!+%EB%AC%BC%EB%9F%AC%EB%82%A0+%EA%B3%B3%EC%9D%B4+%EC%97%86%EB%8B%A4!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=49E0FFFF&background=000B43FF&vCenter=true&random=false&width=1400&height=100&lines=%EC%9D%B4%EC%A0%9C%EB%8A%94+%EB%8D%94+%EC%9D%B4%EC%83%81!+%EB%AC%BC%EB%9F%AC%EB%82%A0+%EA%B3%B3%EC%9D%B4+%EC%97%86%EB%8B%A4!" alt="Typing SVG" /></a>
 
 <span>
   <a href="https://www.notion.so/37e995a6ae9e49b5b06004d93cb821eb">
