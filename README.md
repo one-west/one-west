@@ -21,7 +21,7 @@
 
 - 다음은 JAVA를 공부하면서 객체지향언어(OOP)의 특징과 쓰임새를 알아가는 데 중점을 두었다.
 
-- 이 후 Python, Node.js, Kotlin, Arduino 등 다양한 언어들을 짧게 경험하고, 현재는 Spring 와 React 에 집중하고 있다.
+- 이 후 Python, Node.js, Kotlin, Arduino 등 다양한 언어들을 짧게 경험하고, 현재는 Spring 과 React.js 에 집중하고 있다.
 
 - (작성할만한 사건이 있을 때마다 한줄씩 업데이트 예정)
 
