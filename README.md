@@ -19,6 +19,7 @@
 ## Languages & Tool
 ### Main skills
 <img height="50" width="50" src="https://cdn.simpleicons.org/spring"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/springboot"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/mysql"/>&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/16574/16574318.png"/>
 
 ### Sub skills
 <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/kotlin"/>&nbsp;&nbsp;&nbsp;
