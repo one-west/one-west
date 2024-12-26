@@ -21,14 +21,9 @@
 <!-- main -->
 
 ## Languages & Tool
-### Main skills
-<img height="50" width="50" src="https://cdn.simpleicons.org/spring"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/springboot"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/mysql"/>&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/16574/16574318.png"/>
-
-### Sub skills
-<img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/kotlin"/>&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://cdn.simpleicons.org/python"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/arduino"/>&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.simpleicons.org/react"/>
-
+<img alt="Static Badge" src="https://img.shields.io/badge/spring boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"><img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=ffffff">
+<img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff">
 
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0767ff,20:e0eeee,40:76eec6,60:ffefdb,80:eaca0d,100:f20c00&height=40&section=footer&text=&fontSize=0" width="100%"/>
