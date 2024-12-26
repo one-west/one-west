@@ -12,9 +12,6 @@
 </span>
 
 <!-- main -->
-## 🧙‍♂️ About Me
-
-- 현재 Back-End 공부에 집중...
 
 ## Languages & Tool
 ### Main skills
