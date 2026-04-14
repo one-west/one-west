@@ -13,7 +13,7 @@
     <a href="mailto:wjdgkstj112@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-%20wjdgkstj112%40gmail.com-%23EA4335?style=flat-square"></a>
   </p>
 
-  <a href="[https://one-west.notion.site/14e74517165480fca9bcdc0f15c0e6c9?pvs=4](https://one-west.notion.site/14e74517165480fca9bcdc0f15c0e6c9?source=copy_link)">
+  <a href="https://one-west.notion.site/14e74517165480fca9bcdc0f15c0e6c9">
     <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black"/>
   </a>
 </div>
